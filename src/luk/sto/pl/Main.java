@@ -20,6 +20,9 @@ public class Main {
         }
         System.out.println("Exercise: 3");
         cat1.eatMouse();
+        cat1.eatMouse();
+        cat1.eatMouse();
+        cat1.eatMouse();
         System.out.println("Exercise 4: ");
         dog1.makeSound();
         System.out.println("Exercise 5: ");

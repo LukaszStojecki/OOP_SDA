@@ -15,13 +15,8 @@ public class Cat extends  Animal implements Movable {
     }
 
     public void eatMouse() {
-
-        if (eatMouse <= 1) {
             eatMouse++;
             System.out.println("Ate " + eatMouse + " mice ");
-        } else {
-            System.out.println("Cat didn't catch any mice!");
-        }
     }
 
     @Override
