@@ -1,6 +1,6 @@
 package luk.sto.pl;
 
-public class Circle {
+public class Circle extends  Figures{
 
     double pi;
     double radius;

@@ -1,6 +1,6 @@
 package luk.sto.pl;
 
-public class Rectangle {
+public class Rectangle extends  Figures{
 
     double height;
     double width;

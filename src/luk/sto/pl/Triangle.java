@@ -1,6 +1,6 @@
 package luk.sto.pl;
 
-public class Triangle {
+public class Triangle extends  Figures{
 
     double height;
     double base;
